@@ -40,9 +40,9 @@ Antes de executar o projeto, é necessário ter instalado na máquina:
 
 ## Opção A — Clonar o repositório com Git 
 - No terminal, execute:
-- git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
+- git clone https://github.com/IsaqueS0811/consolidacao_despesas_ans
 - Em seguida, entre na pasta do projeto:
-- cd SEU_REPOSITORIO
+- cd consolidacao_despesas_ans
 
 ## Opção B — Download manual (sem usar Git)
 - No GitHub, clique em Code > Download ZIP
